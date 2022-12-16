@@ -1,3 +1,4 @@
 [submodule "BluFedoraEngine"]
 	path = ThirdParty/BluFedoraEngine
 	url = https://github.com/BluFedora/BluFedoraEngine
+	branch = master
